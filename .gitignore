@@ -1,0 +1,4 @@
+.idea/
+target/
+maven-tomcatjersey-plugin.iml
+examples/sample-webapp/sample-webapp.iml
